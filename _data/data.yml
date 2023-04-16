@@ -13,9 +13,9 @@ sidebar:
 
     # Sidebar links
     email: rishabhhjain111@gmail.com
-    phone: 9119012067
+    phone: +9119012067
     timezone: Indian standard Timezone
-    citizenship:Indian
+    citizenship: Indian
     website: blog.webjeda.com #do not add http://
     github: Rishabh-Kumar-Jain-04112003
     telegram: Rishabh Jain
@@ -35,7 +35,7 @@ sidebar:
         - item: Reading about history and universe
           link:
 
-        - item:Cycling,Cricket
+        - item: Cycling,Cricket
           link:
 
 education:
